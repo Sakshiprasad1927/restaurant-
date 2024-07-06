@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  margin-top: 15px;
+
+}
+body {
+  background: repeating-conic-gradient(27,27,27);
+  background-image: url('https://png.pngtree.com/back_origin_pic/05/05/46/654363fbdf2476f5f692b062a088e305.jpg');
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+.card {
+  background: lightcyan;
+  width: 320px;
+  height: 270px;
+  margin: 35px;
+  border-radius: 15px;
+}
+.card-image{
+  height: 150px;
+  margin-bottom: 5px;
+  background-size: cover;
+}
+
+.car-1 {
+  background-image: url('https://wallpaperaccess.com/full/3692558.jpg');
+}
+
+.car-2{
+  background-image: url('https://wallpapercave.com/wp/wp2038248.jpg');
+}
+.car-3{
+  background-image: url('https://wallpaperaccess.com/full/3014697.jpg');
+}
+.car-4{
+  background-image: url('https://wallpaperaccess.com/full/3692670.jpg');
+}
